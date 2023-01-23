@@ -1,0 +1,2 @@
+# smart-moneyfinders
+property locator
